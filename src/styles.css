@@ -30,3 +30,8 @@ th {
 #amount {
   display: none;
 }
+
+body {
+  background-color: grey;
+  margin: 0;
+}
